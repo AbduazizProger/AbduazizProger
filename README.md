@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbduazizProger
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning Python + Django.
-- 💞️ I’m looking to collaborate on Any company's projects that I can help!
+- 💞️ I’m looking for collaborating on Any company's projects that I can help!
 - 📫 How to reach me : write me on telegram https://t.me/IlhomovAbduaziz
 
 <!---
